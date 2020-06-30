@@ -14,6 +14,7 @@ It contains the following two services,
 
 ## Technologies Used
 - Lagom
+- Lightbend
 - Akka
 - Play HTTP
 - PostgreSQL
@@ -22,6 +23,14 @@ It contains the following two services,
 - Java
 - curl
 
+## What is a reactive service
+- https://www.reactivemanifesto.org/
+- https://medium.com/@filia.aleks/microservice-performance-battle-spring-mvc-vs-webflux-80d39fd81bf0
+- https://sites.google.com/a/mammatustech.com/mammatusmain/reactive-microservices
+
+## Other reactive service frameworks
+- Springboot Async
+- Eclipse Vert.x
 
 ## Running the application
 
